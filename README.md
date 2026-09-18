@@ -18,6 +18,8 @@ Both are updated every few weeks as the underlying product evolves.
 
 #### Also here
 
-- **[myportfolio](https://github.com/yugalagrawal/myportfolio)** — my portfolio site
-- **[yougirl](https://github.com/yugalagrawal/yougirl)** — D2C skincare website prototype
-- **[bros-tracker](https://github.com/yugalagrawal/bros-tracker)** — a personal tracker project
+**[yougirl](https://github.com/yugalagrawal/yougirl)** — a D2C skincare eCommerce site I built solo end to end: an AI-powered skin quiz that scores the whole catalog against your skin profile, full catalog + COD checkout, an admin panel, and search — running for ₹0/month.
+
+**[myportfolio](https://github.com/yugalagrawal/myportfolio)** — my portfolio site: case-study deep dives on past products, a written library of the PM frameworks I actually use, and a poetry corner.
+
+**[bros-tracker](https://github.com/yugalagrawal/bros-tracker)** — a gamified habit tracker for a 3-person friend challenge, with peer-approved logs, streaks, and a real-time leaderboard.
