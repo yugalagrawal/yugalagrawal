@@ -8,7 +8,7 @@
 
 #### Featured prototypes
 
-**[PTL Shipping Console](https://github.com/yugalagrawal/ptl-shipping-console)** — the internal console for LetsTransport's PTL (Part Truck Load) shipping platform: client onboarding & pricing, pickup scheduling with PRS calendars, partner and order management.
+**[PTL Shipping Console](https://github.com/yugalagrawal/ptl-shipping-console)** — the internal console for a Part Truck Load (PTL) shipping platform: client onboarding & pricing, pickup scheduling with PRS calendars, partner and order management.
 
 **[PTL App](https://github.com/yugalagrawal/ptl-app)** — the companion partner-facing mobile app: login, assigned pickups, scan-to-docket, and trips, built to talk to the same data model as the console above.
 
