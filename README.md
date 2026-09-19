@@ -4,7 +4,7 @@
 
 🔗 [Portfolio](https://yugalagarwal.vercel.app/)
 
-> Somewhere between "can eng pick this up next sprint?" and "why is this taking so long," there's a PM who just opened Claude instead. Call me the human-shaped API between business intent and shipped code.
+> Somewhere between "can engg. pick this up next sprint?" and "why is this taking so long," there's a PM who just opened Claude instead. Call me the human-shaped API between business intent and shipped code.
 
 ---
 
