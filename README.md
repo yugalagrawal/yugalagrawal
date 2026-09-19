@@ -1,4 +1,4 @@
-### Hi, I'm Yugal 👋 — Product Manager who prototypes
+### Hi, I'm Yugal 👋 — Product Manager who not only ideate but build
 
 ~4 years of PM experience shipping products across **eCommerce, AdTech, Logistics, and personal trackers**. I like to move straight from an idea to a clickable, realistic prototype instead of stopping at wireframes — across React, Next.js, TypeScript, Tailwind, Prisma/PostgreSQL, and Firebase, whatever the idea needs — so I can test real flows with stakeholders faster. Enough stack to build the thing myself; nowhere near enough to replace the engineers who'd have to scale it.
 
