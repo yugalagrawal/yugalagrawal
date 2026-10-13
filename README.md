@@ -20,6 +20,10 @@ Both are updated every few weeks as the underlying product evolves.
 
 #### Also here
 
+**[letstransport-ops](https://github.com/yugalagrawal/letstransport-ops)** — a clickable prototype of an internal ops console: a 7-step client onboarding wizard, a two-stage approval pipeline, MSA / rate cards, bookings, and field ops, with role-based access. Opens as a single HTML file, no install.
+
+**[logistics-radar](https://github.com/yugalagrawal/logistics-radar)** — a free background tool that reads 40+ logistics news feeds every morning, has an LLM score what matters for a PM, and sends a digest to Telegram or email — running on GitHub Actions for ₹0.
+
 **[yougirl](https://github.com/yugalagrawal/yougirl)** — a D2C skincare eCommerce site I built solo end to end: an AI-powered skin quiz that scores the whole catalog against your skin profile, full catalog + COD checkout, an admin panel, and search — running for ₹0/month.
 
 **[myportfolio](https://github.com/yugalagrawal/myportfolio)** — my portfolio site: case-study deep dives on past products, a written library of the PM frameworks I actually use, and a poetry corner.
