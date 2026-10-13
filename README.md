@@ -1,6 +1,6 @@
-### Hi, I'm Yugal 👋 — Product Manager who not only ideate but build
+### Hi, I'm Yugal 👋 — a Product Manager who builds, not just ideates
 
-~4 years of PM experience shipping products across **eCommerce, AdTech, Logistics, and personal trackers**. I like to move straight from an idea to a clickable, realistic prototype instead of stopping at wireframes — across React, Next.js, TypeScript, Tailwind, Prisma/PostgreSQL, and Firebase, whatever the idea needs — so I can test real flows with stakeholders faster. Enough stack to build the things myself for a limited scale.
+~4 years shipping products across **eCommerce, AdTech, Logistics and personal trackers**. I skip the wireframe stage and go straight to clickable, realistic prototypes (React, Next.js, TypeScript, Tailwind, Prisma/PostgreSQL, Firebase) so I can test real flows with stakeholders faster.
 
 🔗 [Portfolio](https://yugalagarwal.vercel.app/)
 
@@ -10,22 +10,20 @@
 
 #### Featured prototypes
 
-**[PTL Shipping Console](https://github.com/yugalagrawal/ptl-shipping-console)** — the internal console for a Part Truck Load (PTL) shipping platform: client onboarding & pricing, pickup scheduling with PRS calendars, partner and order management.
+**[PTL Shipping Console](https://github.com/yugalagrawal/ptl-shipping-console)** — internal console for a Part Truck Load shipping platform: client onboarding & pricing, pickup scheduling, partner and order management.
 
-**[PTL App](https://github.com/yugalagrawal/ptl-app)** — the companion partner-facing mobile app: login, assigned pickups, scan-to-docket, and trips, built to talk to the same data model as the console above.
+**[PTL App](https://github.com/yugalagrawal/ptl-app)** — the partner-facing mobile companion: assigned pickups, scan-to-docket and trips, on the same data model as the console.
 
-Both are updated every few weeks as the underlying product evolves.
+**[LetsTransport Ops](https://github.com/yugalagrawal/letstransport-ops)** — internal ops console prototype: onboarding wizard, approval pipeline, MSA/rate cards, bookings and field ops. Opens as a single HTML file, no install.
 
 ---
 
 #### Also here
 
-**[letstransport-ops](https://github.com/yugalagrawal/letstransport-ops)** — a clickable prototype of an internal ops console: a 7-step client onboarding wizard, a two-stage approval pipeline, MSA / rate cards, bookings, and field ops, with role-based access. Opens as a single HTML file, no install.
+**[logistics-radar](https://github.com/yugalagrawal/logistics-radar)** — reads 40+ logistics news feeds daily, has an LLM score what matters, and sends a digest to Telegram or email. Runs free on GitHub Actions.
 
-**[logistics-radar](https://github.com/yugalagrawal/logistics-radar)** — a free background tool that reads 40+ logistics news feeds every morning, has an LLM score what matters for a PM, and sends a digest to Telegram or email — running on GitHub Actions for ₹0.
+**[yougirl](https://github.com/yugalagrawal/yougirl)** — solo-built D2C skincare store: AI skin quiz, COD checkout, admin panel and search, at ₹0/month.
 
-**[yougirl](https://github.com/yugalagrawal/yougirl)** — a D2C skincare eCommerce site I built solo end to end: an AI-powered skin quiz that scores the whole catalog against your skin profile, full catalog + COD checkout, an admin panel, and search — running for ₹0/month.
+**[myportfolio](https://github.com/yugalagrawal/myportfolio)** — case studies, a library of PM frameworks I use, and a poetry corner.
 
-**[myportfolio](https://github.com/yugalagrawal/myportfolio)** — my portfolio site: case-study deep dives on past products, a written library of the PM frameworks I actually use, and a poetry corner.
-
-**[bros-tracker](https://github.com/yugalagrawal/bros-tracker)** — a gamified habit tracker for a 3-person friend challenge, with peer-approved logs, streaks, and a real-time leaderboard.
+**[bros-tracker](https://github.com/yugalagrawal/bros-tracker)** — gamified habit tracker for a friend group, with streaks, peer-approved logs and a live leaderboard.
